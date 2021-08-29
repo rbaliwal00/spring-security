@@ -2,9 +2,9 @@
 Demo to learn Spring Security
 
 
-###To Implement Basic Authorization using Spring Security
+### To Implement Basic Authorization using Spring Security
 
-![](BasicAuth.png)
+![](Auth.png)
 
 Let’s suppose a client want to send some requests to a server in order to perform some CRUD operations or to view some data. With basic auth if the client just 
 sends a request it will get 401 status code meaning unauthorized from the server. This is because with basic auth you need to specify the username and password inside of 
